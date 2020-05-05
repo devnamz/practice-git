@@ -1,2 +1,5 @@
 Installation Instructions
+------------------------------------------
+Following are steps that need to follow for the installations of this application. 
 
+Step 1: 
